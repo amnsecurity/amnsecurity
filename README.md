@@ -17,14 +17,14 @@ This GitHub profile is organized as a public portfolio of sanitized security ass
 
 | Area | Report |
 |---|---|
-| Active Directory / ADCS | [Cross-Forest Active Directory Compromise Assessment](https://github.com/amnsecurity/adcs-cross-forest-compromise-assessment) |
-| Web Management Infrastructure | [Web Management Server Compromise Assessment](https://github.com/amnsecurity/web-management-server-compromise-assessment) |
-| WordPress / Internal Services | [WordPress OCR Internal Security Assessment](https://github.com/amnsecurity/wordpress-ocr-internal-pentest) |
-| Support Infrastructure | [Support Infrastructure Compromise Assessment](https://github.com/amnsecurity/support-infrastructure-compromise-assessment) |
-| Print Infrastructure | [Print Infrastructure Compromise Assessment](https://github.com/amnsecurity/print-infrastructure-compromise-assessment) |
-| Vulnerability Research | [Apache MINA Deserialization RCE Analysis](https://github.com/amnsecurity/CVE-2024-52046-Apache-MINA-RCE) |
-| Vulnerability Research | [Apache Camel Docling Argument Injection Analysis](https://github.com/amnsecurity/CVE-2026-40047-Apache-Camel-Docling-Injection) |
-| Vulnerability Research | [Chrome V8 Sandbox Escape Analysis](https://github.com/amnsecurity/CVE-2026-6307-Chrome-V8-Sandbox-Escape) |
+| Active Directory / ADCS | [Cross-Forest Active Directory Compromise Assessment](https://github.com/amnsecurity/active-directory-cross-forest-security-assessment) |
+| Web Management Infrastructure | [Web Management Server Compromise Assessment](https://github.com/amnsecurity/web-management-platform-security-assessment) |
+| WordPress / Internal Services | [WordPress OCR Internal Security Assessment](https://github.com/amnsecurity/wordpress-ocr-platform-security-assessment) |
+| Support Infrastructure | [Support Infrastructure Compromise Assessment](https://github.com/amnsecurity/support-infrastructure-security-assessment) |
+| Print Infrastructure | [Print Infrastructure Compromise Assessment](https://github.com/amnsecurity/print-infrastructure-security-assessment) |
+| Vulnerability Research | [Apache MINA Deserialization RCE Analysis](https://github.com/amnsecurity/apache-mina-deserialization-risk-analysis) |
+| Vulnerability Research | [Apache Camel Docling Argument Injection Analysis](https://github.com/amnsecurity/apache-camel-docling-argument-validation-analysis) |
+| Vulnerability Research | [Chrome V8 Sandbox Escape Analysis](https://github.com/amnsecurity/chrome-v8-sandbox-boundary-analysis) |
 
 ## Report Structure
 
