@@ -18,9 +18,9 @@ This GitHub profile is organized as a public portfolio of sanitized security ass
 | Area | Report |
 |---|---|
 | Active Directory / ADCS | [Cross-Forest Active Directory Compromise Assessment](https://github.com/amnsecurity/active-directory-cross-forest-penetration-test-report) |
-| Web Management Infrastructure | [Web Management Server Compromise Assessment](https://github.com/amnsecurity/web-management-platform-penetration-test-report) |
-| WordPress / Internal Services | [WordPress OCR Internal Security Assessment](https://github.com/amnsecurity/wordpress-ocr-platform-penetration-test-report) |
-| Support Infrastructure | [Support Infrastructure Compromise Assessment](https://github.com/amnsecurity/support-infrastructure-penetration-test-report) |
+| Web Management Infrastructure | [Web Management Server Compromise Assessment](https://github.com/amnsecurity/web-management-penetration-test-report) |
+| WordPress / Internal Services | [WordPress OCR Internal Security Assessment](https://github.com/amnsecurity/wordpress-ocr-penetration-test-report) |
+| Support Infrastructure | [Support Infrastructure Compromise Assessment](https://github.com/amnsecurity/support-infra-penetration-test-report) |
 | Print Infrastructure | [Print Infrastructure Compromise Assessment](https://github.com/amnsecurity/print-infrastructure-penetration-test-report) |
 | Vulnerability Research | [Apache MINA Deserialization RCE Analysis](https://github.com/amnsecurity/apache-mina-deserialization-security-assessment) |
 | Vulnerability Research | [Apache Camel Docling Argument Injection Analysis](https://github.com/amnsecurity/apache-camel-docling-security-assessment) |
